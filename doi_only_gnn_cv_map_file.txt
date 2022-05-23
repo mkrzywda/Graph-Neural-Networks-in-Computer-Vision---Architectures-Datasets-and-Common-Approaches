@@ -1,28 +1,28 @@
 ﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>
-25	a. krizhevsky et al. (2012). imagenet classification with deep convolutional neural networks. commun. acm	-0.1959	-0.5651	1	26	115	13
-505	cewu lu et al. (2016). visual relationship detection with language priors. eccv	1.129	0.0835	2	25	100	11
-588	d. duvenaud et al. (2015). convolutional networks on graphs for learning molecular fingerprints. nips	-0.0939	0.1958	1	26	183	22
-653	diederik p. kingma et al. (2014). adam: a method for stochastic optimization. iclr	-0.6361	0.02	1	26	136	19
-710	f. scarselli et al. (2009). the graph neural network model. ieee transactions on neural networks	0.0225	-0.0235	1	26	380	59
-950	j. gilmer et al. (2017). neural message passing for quantum chemistry. icml	-0.3052	0.5996	1	26	109	13
-1088	joan bruna et al. (2013). spectral networks and locally connected networks on graphs. iclr	-0.2488	0.3981	1	25	186	22
-1150	justin johnson et al. (2015). image retrieval using scene graphs. 2015 ieee conference on computer vision and pattern recognition (cvpr)	1.1588	0.3408	2	21	92	10
-1165	k. simonyan et al. (2014). very deep convolutional networks for large-scale image recognition. iclr	0.2456	-0.135	1	26	201	25
-1179	kaiming he et al. (2015). deep residual learning for image recognition. 2016 ieee conference on computer vision and pattern recognition (cvpr)	-0.0433	-0.1563	1	26	212	27
-1204	kenneth marino et al. (2016). the more you know: using knowledge graphs for image classification. 2017 ieee conference on computer vision and pattern recognition (cvpr)	0.931	-0.2425	2	25	85	10
-1336	m. defferrard et al. (2016). convolutional neural networks on graphs with fast localized spectral filtering. nips	-0.4662	0.2218	1	26	177	22
-1345	"m. gori et al. (2005). a new model for learning in graph domains. proceedings. 2005 ieee international joint conference on neural networks, 2005."	-0.4068	-0.0029	1	25	150	16
-1422	mathias niepert et al. (2016). learning convolutional neural networks for graphs. icml	-0.5264	0.5502	1	26	112	11
-1453	mikael henaff et al. (2015). deep convolutional networks on graph-structured data. arxiv	0.0225	0.6215	1	25	135	16
-1536	olga russakovsky et al. (2014). imagenet large scale visual recognition challenge. international journal of computer vision	0.6247	-0.5158	2	26	95	10
-1592	petar velickovic et al. (2017). graph attention networks. iclr	-1.0102	0.1715	1	23	108	12
-1671	ranjay krishna et al. (2016). visual genome: connecting language and vision using crowdsourced dense image annotations. international journal of computer vision	0.876	0.4484	2	23	100	10
-1702	ross b. girshick (2015). fast r-cnn. 2015 ieee international conference on computer vision (iccv)	1.1555	-0.0609	2	24	86	10
-1800	shaoqing ren et al. (2015). faster r-cnn: towards real-time object detection with region proposal networks. ieee transactions on pattern analysis and machine intelligence	0.5364	-0.3046	2	26	124	15
-1832	sijie yan et al. (2018). spatial temporal graph convolutional networks for skeleton-based action recognition. aaai	-0.6447	-0.4922	3	24	94	13
-1897	thomas kipf et al. (2016). semi-supervised classification with graph convolutional networks. iclr	-0.1737	-0.0209	1	26	286	38
-1933	tsung-yi lin et al. (2014). microsoft coco: common objects in context. eccv	0.3873	-0.6389	2	26	93	11
-2014	william l. hamilton et al. (2017). inductive representation learning on large graphs. nips	-0.837	0.5936	1	25	94	11
-2027	x. wang et al. (2017). non-local neural networks. 2018 ieee/cvf conference on computer vision and pattern recognition	-1.094	-0.3848	3	24	74	10
-2028	x. wang et al. (2018). videos as space-time region graphs. eccv	-0.8397	-0.7751	3	21	73	11
-2256	yujia li et al. (2015). gated graph sequence neural networks. iclr	0.4325	0.0736	2	26	220	27
+25	a. krizhevsky et al. (2012)	-0.1959	-0.5651	1	26	115	13
+505	cewu lu et al. (2016)	1.129	0.0835	2	25	100	11
+588	d. duvenaud et al. (2015)	-0.0939	0.1958	1	26	183	22
+653	diederik p. kingma et al. (2014)	-0.6361	0.02	1	26	136	19
+710	f. scarselli et al. (2009)	0.0225	-0.0235	1	26	380	59
+950	j. gilmer et al. (2017)	-0.3052	0.5996	1	26	109	13
+1088	joan bruna et al. (2013)	-0.2488	0.3981	1	25	186	22
+1150	justin johnson et al. (2015)	1.1588	0.3408	2	21	92	10
+1165	k. simonyan et al. (2014)	0.2456	-0.135	1	26	201	25
+1179	kaiming he et al. (2015)	-0.0433	-0.1563	1	26	212	27
+1204	kenneth marino et al. (2016)	0.931	-0.2425	2	25	85	10
+1336	m. defferrard et al. (2016)	-0.4662	0.2218	1	26	177	22
+1345	m. gori et al. (2005)	-0.4068	-0.0029	1	25	150	16
+1422	mathias niepert et al. (2016)	-0.5264	0.5502	1	26	112	11
+1453	mikael henaff et al. (2015)	0.0225	0.6215	1	25	135	16
+1536	olga russakovsky et al. (2014)	0.6247	-0.5158	2	26	95	10
+1592	petar velickovic et al. (2017)	-1.0102	0.1715	1	23	108	12
+1671	ranjay krishna et al. (2016)	0.876	0.4484	2	23	100	10
+1702	ross b. girshick (2015)	1.1555	-0.0609	2	24	86	10
+1800	shaoqing ren et al. (2015)	0.5364	-0.3046	2	26	124	15
+1832	sijie yan et al. (2018)	-0.6447	-0.4922	3	24	94	13
+1897	thomas kipf et al. (2016)	-0.1737	-0.0209	1	26	286	38
+1933	tsung-yi lin et al. (2014)	0.3873	-0.6389	2	26	93	11
+2014	william l. hamilton et al. (2017)	-0.837	0.5936	1	25	94	11
+2027	x. wang et al. (2017)	-1.094	-0.3848	3	24	74	10
+2028	x. wang et al. (2018)	-0.8397	-0.7751	3	21	73	11
+2256	yujia li et al. (2015)	0.4325	0.0736	2	26	220	27
